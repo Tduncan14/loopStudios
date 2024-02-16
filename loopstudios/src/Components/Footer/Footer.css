@@ -1,0 +1,44 @@
+.footer {
+    display: flex;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 2rem;
+    align-items: center;
+    padding-bottom: 5rem;
+    margin-top: 7rem;
+}
+
+.Lfoot {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+.leftlist {
+    display: flex;
+}
+
+.leftlist li {
+    list-style-type: none;
+}
+
+
+
+
+.rightMenu ul {
+    display: flex;
+    justify-items: space-between;
+}
+
+.rightMenu ul li {
+    list-style-type: none;
+}
+
+.leftlist li {}

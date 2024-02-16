@@ -1,10 +1,8 @@
 .headerContainer {
     display: flex;
     flex-direction: column;
-    height: 100%;
-    min-width: 650px;
-    width: 100%;
-    min-width: 100vw;
+    width: 100vw;
+
     background-image: url('/public/images/desktop/image-hero.jpg');
     background-size: cover;
     background-position: top center;
@@ -48,6 +46,7 @@
 .ullist li {
     list-style-type: none;
     margin-right: 1.5rem;
+    cursor: pointer;
 
 }
 
