@@ -3,5 +3,8 @@ module.exports = {
   theme: {
     extend: {},
   },
+  letterSpacing: {
+    widest: '.3em'
+  },
   plugins: [],
 }
